@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
+global.sig = 'https://instagram.com/jstme._____'
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.sgh = 'https://github.com/Lucife-Putra'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
+global.sdc = 'https://wa.me/60177302593'
+global.swa = 'wa.me/60177302593'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -53,10 +53,10 @@ global.nameown = 'PutraModz'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
+  ['60177032593'],
+  ['60177032593'],
   ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['60177032593', 'Qyle', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,22 +108,22 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.gcname = 'Circle Qyle'//nama group kalian
+global.wm = 'By BangQyle' //Main Watermark
+global.wm2 = 'BangQyle'
+global.wm3 = ' BangQyle | By Qyle'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
 global.author = 'PutraModz' 
 global.packname = 'PutraModz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'tekala sendiri'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4149491a34cdd06cd6dd7.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
 global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
 global.giflogo = 'https://telegra.ph/file/e220e49e421810bbdef6a.mp4'
@@ -132,14 +132,14 @@ global.thumbs = ['https://telegra.ph/file/7d80f81dd7c3ed1ff85a1.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya BangQyle Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'Qyle'
+global.umurowner = 'taktau'
+global.asalowner = 'Bukit Jalil,Kuala Lumpur'
+global.nomorowner = 'wa.me/60177302593'
+global.pacarowner = 'Teka'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -152,7 +152,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/f4bd877ad84834751e9bb.jpg'
+global.thumbdoc = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
