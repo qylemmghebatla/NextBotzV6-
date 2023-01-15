@@ -37,40 +37,53 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
      let math = max - xp
 let caption = `*• SEWA BOT & UP TO PREMIUM •*
         
-❏ *LIST SEWA BOT*
-• Hemat = _5k/grup (1 minggu)_
-• Normal = _15k/grup (1 bulan)_
-• Standar = _45k/grup (3 bulan)_
-• Pro = _65k/grup (5 bulan)_                                           
-• Permanen = _80k_
+❏ *𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟
 
-• Free/Gratis = Gunakan join limit (1 Hari)
+ *• SEWA BOT & UP TO PREMIUM •*
 
-❏ *PERPANJANG MASA AKTIF BOT*
-• Level Hemat = 5k
-• Level Normal = 7k
-• Level Standar = 20k
-• Level Pro = 35k
+        
 
+╭─「 SEWABOT • 」
 
+│ • Maxis [ 0177302593 ] 
 
-❏ *UPGRADE PREMIUM*
-• 5k  (1 Day)
-• 15k (1 Minggu)
-• 25k (1 Month)
-• 45k (3 Month)
-• 65k (5 Month)
-• 75k (8 Tahun)
+│ • Umobile  [PM OWNER]
 
+│ • Celcom  [PM OWNER]
 
-❏ *PERPANJANG MASA AKTIF PREMIUM*
-5k = 5k
-15k = 7k
-25k = 10k
-45k = 15k
-65k = 25k
-75k = 40k
+│ • Digi  [PM OWNER]
 
+╰────
+
+╭─「 *BASIC PRICE* 」
+
+│ > 1 Minggu - RM 3:00 / 4 Group
+
+│ > 3 Minggu - RM 5:00 / 6 Group
+
+│ > Unlimited  - RM 11:00 / Unlimited Group
+
+│ 
+
+╰────
+
+╭─「 *PREMIUM PRICE* 」
+
+│ > 1 Minggu - RM 7:00 / 6 Group
+
+│ > 3 Minggu - RM 9:00 / 10 Group
+
+│ > Unlimited - RM 15:00 / Unlimited Group 
+
+│ 
+
+╰────
+
+wa.me/60177302593
+
+*Bukan Bot!!!*
+
+*Owner QyleBotz*
 
 
 ❏ *FITUR PREMIUM*
